@@ -2,8 +2,8 @@
 This is digital calculator.
 
 # Operations
-Add: adding numbers
-Substract: subtracting numbers
-Multiplication: Multiplying numbers
-Division: Dividing numbers
-Remove: remove the typed numbers.
+Add: adding numbers <br>
+Substract: subtracting numbers <br>
+Multiplication: Multiplying numbers <br>
+Division: Dividing numbers <br>
+Remove: remove the typed numbers. <br>
